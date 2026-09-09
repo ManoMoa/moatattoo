@@ -27,12 +27,14 @@
   .ghost:hover{background:rgba(201,169,110,.12);color:var(--gold-light);}
   :focus-visible{outline:2px solid var(--gold);outline-offset:3px;}
 </style>
+
+<!-- Google tag (gtag.js) — um loader, dois destinos: Analytics + Google Ads -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-WQMT0C0WZ9"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
-  function gtagGA(){dataLayer.push(arguments);}
-  gtagGA('js', new Date());
-  gtagGA('config', 'G-WQMT0C0WZ9');
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-WQMT0C0WZ9');
 </script>
 </head>
 <body>
