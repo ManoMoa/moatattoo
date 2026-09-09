@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://agendatatt.github.io/moatattoo/sitemap.xml
