@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://agendatatt.github.io/moatattoo/</loc>
@@ -34,5 +34,10 @@
     <loc>https://agendatatt.github.io/moatattoo/o-que-perguntar-ao-tatuador.html</loc>
     <lastmod>2026-09-09</lastmod>
     <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://agendatatt.github.io/moatattoo/quantas-sessoes-tatuagem-grande.html</loc>
+    <lastmod>2026-09-09</lastmod>
+    <priority>0.8</priority>
   </url>
 </urlset>
